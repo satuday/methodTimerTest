@@ -1,0 +1,17 @@
+packages
+bin
+obj
+*.suo
+_ReSharper.Xero.WebPay
+.vs
+*.dbmdl
+
+!**/packages/OctoPack*/
+**/packages/OctoPack*/content/
+**/packages/OctoPack*/license.txt
+**/packages/OctoPack*/tools/Install.ps1
+**/packages/OctoPack*/tools/Uninstall.ps1
+TestResults
+*.csproj.user
+node_modules
+FodyWeavers.xsd
