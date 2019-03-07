@@ -27,13 +27,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Reference Include="Xero.AutoPay.Api">
-      <HintPath>..\..\..\..\..\Felix\Dev\felix\Xero.AutoPay\projects\Xero.AutoPay.Api\bin\Debug\netcoreapp2.1\Xero.AutoPay.Api.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\ClassLibrary2\netcoretest.csproj" />
   </ItemGroup>
 
 </Project>
